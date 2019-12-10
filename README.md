@@ -1,2 +1,3 @@
-# CPL-20192-Team8
-종합설계프로젝트1
+Reverse Auction-based tour guide matching platform.
+Frontend: Node JS + Postgres + Knex/Objection.js
+Backend: React
