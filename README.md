@@ -1,3 +1,3 @@
 Reverse Auction-based tour guide matching platform.  
-**Frontend**: Node JS + Postgres + Knex/Objection.js  
-**Backend**: React  
+**Backend**: Node JS + Postgres + Knex/Objection.js  
+**Frontend**: React  
